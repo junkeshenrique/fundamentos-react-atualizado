@@ -6,8 +6,10 @@ export default function Courses() {
     <DefaultLayout
       title="Gestão de Cursos"
       description="Gerencier os cursos oferecidos pela universidade">
+        
+      <Heading>
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      </Heading>
     </DefaultLayout>
   )
 }

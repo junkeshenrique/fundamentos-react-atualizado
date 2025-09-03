@@ -7,7 +7,9 @@ export default function Enrollment() {
       title="Gestão de Matrículas"
       description="Gerencie as matrículas dos estudantes para o próximo semestre">
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      <Heading>
+
+      </Heading>
     </DefaultLayout>
   )
 }

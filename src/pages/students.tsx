@@ -7,7 +7,9 @@ export default function Students() {
       title="Gestão de Estudantes"
       description="Gerencie informações dos estudantes matrículados">
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      <Heading>
+
+      </Heading>
     </DefaultLayout>
   )
 }

@@ -6,8 +6,10 @@ export default function Home() {
     <DefaultLayout
       title="Gestão de Notas"
       description="Gerencie as notas e avaliações dos estudantes">
+        
+      <Heading>
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      </Heading>
     </DefaultLayout>
   )
 }

@@ -7,7 +7,9 @@ export default function Calendar() {
       title="Calendário Acadêmico"
       description="Gerencie eventos, aulas, provas e prazos importantes">
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      <Heading>
+
+      </Heading>
     </DefaultLayout>
   )
 }

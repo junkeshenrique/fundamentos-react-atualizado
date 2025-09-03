@@ -7,7 +7,9 @@ export default function Teachers() {
       title="Gestão de Professores"
       description="Gerencie informações do corpo docente">
 
-      <Heading color="red">Dashboard Acadêmico</Heading>
+      <Heading>
+
+      </Heading>
     </DefaultLayout>
   )
 }
